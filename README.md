@@ -1,5 +1,4 @@
-# R-Hadoop
-R applications for MapReduce Streaming APIs
+# R applications for MapReduce Streaming APIs
 
 [Wordcount](/Wordcount/) : The "Hello World" of the Hadoop framework
 
