@@ -1,8 +1,8 @@
-# R applications for MapReduce Streaming APIs
+## R applications for MapReduce Streaming APIs
 
-[Wordcount](/Wordcount/) : The "Hello World" of the Hadoop framework
+**[Wordcount](/Wordcount/)** : The "Hello World" of Hadoop framework
 
-Pass a file containing texte into a R [reducer](/Wordcount/reducer.r) script yield the words and their count.
+Pass a file containing text into a R [reducer](/Wordcount/reducer.r) process that yield the words and their count.
 
 ```
 # copy to hdfs
