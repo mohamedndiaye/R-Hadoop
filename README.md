@@ -1,4 +1,4 @@
-## R applications for MapReduce Streaming APIs
+## MapReduce jobs with R scripts
 
 **[Wordcount](/Wordcount/)** : The "Hello World" of Hadoop framework
 
